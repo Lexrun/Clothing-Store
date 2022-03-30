@@ -71,16 +71,7 @@ public abstract class Product {
         }
     }
 
-    @Override
-    public String toString() {
-        return getClass().getSimpleName() + "{" +
-                "name=" + name +
-                ",price=" + Price + ",size=" + size +
-                '}';
-    }
-
-
-        }
+}
 
 
 
